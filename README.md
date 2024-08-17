@@ -1,6 +1,6 @@
-#include <NewPing.h> // 
-2#include <AFMotor.h> // You can download the   code library below
-3#include <Servo.h> //
+#include <NewPing.h>
+2#include <AFMotor.h>
+3#include <Servo.h> 
 4 
 5// Ultranic Pin Configuration
 6   
